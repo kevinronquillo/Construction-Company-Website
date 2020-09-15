@@ -1,4 +1,4 @@
-
+/* CSS */
 
 *{
     font-family: 'Ubuntu', sans-serif;
@@ -17,4 +17,5 @@
 }
 .jumbotron h1{
     float:right;
+
 }
