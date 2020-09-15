@@ -1,0 +1,20 @@
+
+
+*{
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.jumbotron{
+    height: 100px;
+    
+}
+.logo{
+    height: 100px;
+    weight: 100px;
+    position: fixed;
+    float:left;
+}
+.jumbotron h1{
+    float:right;
+}
