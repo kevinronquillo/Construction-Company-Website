@@ -12,10 +12,31 @@
 .logo{
     height: 100px;
     weight: 100px;
-    position: fixed;
+    
     float:left;
 }
 .jumbotron h1{
     float:right;
 
+}
+.ownerPic{
+    width: 600px;
+    height: 600px;
+}
+footer{
+    background-color: #3f3f3f;
+    color: #d5d5d5;
+    padding-top:2rem;
+  
+  }
+  hr.light{
+    border-top: 1px solid #d5d5d5;
+    width: 75%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+  }
+
+/*--- Bootstrap Padding Fix --*/
+[class*="col-"] {
+    padding: 1rem;
 }
